@@ -98,6 +98,12 @@ My ongoing learning is centered around:
 - Building more reliable automation and developer tools.
 - Writing better documentation and testing project behavior.
 
+## 📜 License & Responsible Use
+
+Unless a repository states otherwise, projects are released under the **MIT License**. You are free to use, copy, modify, and distribute the code, including in commercial projects, provided you retain the required copyright and license notice.
+
+Projects and examples are shared for **educational and informational purposes**. You are responsible for how you use them and must follow applicable laws, platform rules, and the documentation of each project. The software is provided without warranty. Check each repository's own `LICENSE` file because individual projects may have different terms.
+
 ## 🤝 Collaboration & Contributions
 
 I'm open to constructive feedback, learning opportunities, and practical open-source collaboration.
