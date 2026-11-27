@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**astraquantlabs/astraquantlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AstraQuant Labs
 
-Here are some ideas to get you started:
+Building practical software. Learning through engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an independent developer interested in building useful software, exploring new technologies, and improving my development skills through hands-on projects.
+
+Areas of Interest
+
+- Python development and automation
+- Discord bots and community tools
+- Web development
+- Linux and Android development
+- Networking and digital privacy
+
+Technologies
+
+Languages: Python, C, HTML, CSS, JavaScript
+
+Tools: Git, GitHub, Linux, Termux, Cloudflare
+
+Projects
+
+Explore my repositories for development experiments, programming tools, educational resources, and practical software projects.
+
+Connect
+
+- GitHub: https://github.com/astraquantlabs
+
+---
+
+Build. Learn. Improve. Repeat.
