@@ -111,6 +111,18 @@ If you spot a bug or have an improvement idea:
 
 Please read the individual repository's contribution guidance before submitting changes.
 
+## 💬 Join the Community
+
+Connect with other developers, discuss programming, share projects, and learn together in **Python D.S** — my programming community on Discord.
+
+<div align="center">
+
+[![Join Python D.S on Discord](https://img.shields.io/badge/JOIN%20THE%20COMMUNITY-Python%20D.S-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/P8jVhGmsnb)
+
+[**Join Python D.S →**](https://discord.gg/P8jVhGmsnb)
+
+</div>
+
 ## 📬 Find Me on GitHub
 
 <div align="center">
