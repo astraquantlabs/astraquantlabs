@@ -1,32 +1,47 @@
+<div align="center">
 
-AstraQuant Labs
+# AstraQuant Labs
 
-Building practical software. Learning through engineering.
+**Building practical software. Learning through engineering.**
 
-I'm an independent developer interested in building useful software, exploring new technologies, and improving my development skills through hands-on projects.
+[GitHub Profile](https://github.com/astraquantlabs)
 
-Areas of Interest
+</div>
+
+---
+
+## About
+
+I'm an independent developer focused on learning by building. I explore practical software projects, experiment with tools and technologies, and document what I learn along the way.
+
+## Interests
 
 - Python development and automation
-- Discord bots and community tools
+- Discord bots and community tooling
 - Web development
 - Linux and Android development
 - Networking and digital privacy
 
-Technologies
+## Tools & Technologies
 
-Languages: Python, C, HTML, CSS, JavaScript
+**Development:** Python, HTML, CSS, JavaScript  
+**Environment & workflow:** Git, GitHub, Linux, Termux, Cloudflare
 
-Tools: Git, GitHub, Linux, Termux, Cloudflare
+## Projects
 
-Projects
+My repositories contain development experiments, command-line utilities, automation projects, web projects, and learning resources. Each project should be evaluated by its own documentation and current implementation.
 
-Explore my repositories for development experiments, programming tools, educational resources, and practical software projects.
+## Principles
 
-Connect
-
-- GitHub: https://github.com/astraquantlabs
+- Prefer clear, maintainable code.
+- Document setup requirements and limitations.
+- Be honest about project capabilities and maturity.
+- Keep learning through practical work.
 
 ---
 
-Build. Learn. Improve. Repeat.
+<div align="center">
+
+*Build. Learn. Improve. Repeat.*
+
+</div>
